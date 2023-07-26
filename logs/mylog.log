@@ -1,0 +1,605 @@
+[FATAL] 2023-07-04 16:02:26.566 [main] StepDef - Setup1 executed...
+[INFO ] 2023-07-04 16:02:26.678 [main] StepDef - Browser is launched
+[INFO ] 2023-07-04 16:02:35.199 [main] StepDef - Url is opened
+[INFO ] 2023-07-04 16:02:35.910 [main] StepDef - Email address is entered
+[INFO ] 2023-07-04 16:02:36.365 [main] StepDef - Password is entered
+[INFO ] 2023-07-04 16:02:40.427 [main] StepDef - User clicked on login button
+[INFO ] 2023-07-04 16:03:08.987 [main] StepDef - User clicked on stay Signed
+[INFO ] 2023-07-04 16:03:15.009 [main] StepDef - User clicked on Homepage link
+[INFO ] 2023-07-04 16:03:42.232 [main] StepDef - User is at General Contacts section
+[INFO ] 2023-07-04 16:03:42.305 [main] StepDef - List of General Contacts is there
+[FATAL] 2023-07-04 16:03:44.869 [main] StepDef - Setup1 executed...
+[INFO ] 2023-07-04 16:03:44.869 [main] StepDef - Browser is launched
+[INFO ] 2023-07-04 16:03:51.282 [main] StepDef - Url is opened
+[INFO ] 2023-07-04 16:03:51.495 [main] StepDef - Email address is entered
+[INFO ] 2023-07-04 16:03:51.701 [main] StepDef - Password is entered
+[INFO ] 2023-07-04 16:03:55.566 [main] StepDef - User clicked on login button
+[INFO ] 2023-07-04 16:04:59.507 [main] StepDef - User clicked on stay Signed
+[FATAL] 2023-07-04 16:06:04.996 [main] StepDef - Setup1 executed...
+[INFO ] 2023-07-04 16:06:05.056 [main] StepDef - Browser is launched
+[INFO ] 2023-07-04 16:06:11.976 [main] StepDef - Url is opened
+[INFO ] 2023-07-04 16:06:12.255 [main] StepDef - Email address is entered
+[INFO ] 2023-07-04 16:06:12.449 [main] StepDef - Password is entered
+[INFO ] 2023-07-04 16:06:15.206 [main] StepDef - User clicked on login button
+[INFO ] 2023-07-04 16:06:29.119 [main] StepDef - User clicked on stay Signed
+[INFO ] 2023-07-04 16:06:32.945 [main] StepDef - User clicked on Homepage link
+[INFO ] 2023-07-04 16:06:53.404 [main] StepDef - User is at General Contacts section
+[INFO ] 2023-07-04 16:06:53.477 [main] StepDef - List of General Contacts is there
+[FATAL] 2023-07-04 16:06:55.328 [main] StepDef - Setup1 executed...
+[INFO ] 2023-07-04 16:06:55.334 [main] StepDef - Browser is launched
+[INFO ] 2023-07-04 16:07:01.778 [main] StepDef - Url is opened
+[INFO ] 2023-07-04 16:07:02.032 [main] StepDef - Email address is entered
+[INFO ] 2023-07-04 16:07:02.232 [main] StepDef - Password is entered
+[INFO ] 2023-07-04 16:07:06.267 [main] StepDef - User clicked on login button
+[INFO ] 2023-07-04 16:07:21.562 [main] StepDef - User clicked on stay Signed
+[INFO ] 2023-07-04 16:07:24.038 [main] StepDef - User clicked on Homepage link
+[INFO ] 2023-07-04 16:07:42.705 [main] StepDef - User is at Legal section
+[INFO ] 2023-07-04 16:07:42.761 [main] StepDef - List of Legal section is displaying
+[INFO ] 2023-07-04 16:07:42.764 [main] StepDef - Contract Templates is displaying
+[INFO ] 2023-07-04 16:07:42.766 [main] StepDef - Contract Templates is displaying
+[FATAL] 2023-07-04 16:07:44.541 [main] StepDef - Setup1 executed...
+[INFO ] 2023-07-04 16:07:44.546 [main] StepDef - Browser is launched
+[INFO ] 2023-07-04 16:07:51.203 [main] StepDef - Url is opened
+[INFO ] 2023-07-04 16:07:51.416 [main] StepDef - Email address is entered
+[INFO ] 2023-07-04 16:07:51.607 [main] StepDef - Password is entered
+[INFO ] 2023-07-04 16:07:55.639 [main] StepDef - User clicked on login button
+[INFO ] 2023-07-04 16:07:58.236 [main] StepDef - User clicked on stay Signed
+[INFO ] 2023-07-04 16:08:10.970 [main] StepDef - User clicked on Homepage link
+[INFO ] 2023-07-04 16:08:22.814 [main] StepDef - User is at Legal section
+[INFO ] 2023-07-04 16:08:22.970 [main] StepDef - User clicks on Contract Templates under Account and Finance Page
+[FATAL] 2023-07-04 16:08:24.719 [main] StepDef - Setup1 executed...
+[INFO ] 2023-07-04 16:08:24.826 [main] StepDef - Browser is launched
+[FATAL] 2023-07-04 16:23:08.711 [main] StepDef - Setup1 executed...
+[INFO ] 2023-07-04 16:23:08.779 [main] StepDef - Browser is launched
+[INFO ] 2023-07-04 16:23:19.708 [main] StepDef - Url is opened
+[INFO ] 2023-07-04 16:23:19.972 [main] StepDef - Email address is entered
+[INFO ] 2023-07-04 16:23:20.126 [main] StepDef - Password is entered
+[INFO ] 2023-07-04 16:23:24.651 [main] StepDef - User clicked on login button
+[INFO ] 2023-07-04 16:23:59.513 [main] StepDef - User clicked on stay Signed
+[INFO ] 2023-07-04 16:24:06.249 [main] StepDef - User clicked on Homepage link
+[INFO ] 2023-07-04 16:24:18.150 [main] StepDef - User is at SFC-Fillings section
+[INFO ] 2023-07-04 16:24:18.241 [main] StepDef - User clicked on  SFC-Fillings Web Part in Accounts & Finance Page
+[INFO ] 2023-07-04 16:24:18.770 [main] StepDef - It will open new Window
+[INFO ] 2023-07-04 16:24:18.788 [main] StepDef - It should redirects to https://ir.kodiak.com/ URL
+[FATAL] 2023-07-04 16:28:54.169 [main] StepDef - Setup1 executed...
+[INFO ] 2023-07-04 16:28:54.196 [main] StepDef - Browser is launched
+[INFO ] 2023-07-04 16:29:00.455 [main] StepDef - Url is opened
+[INFO ] 2023-07-04 16:29:00.812 [main] StepDef - Email address is entered
+[INFO ] 2023-07-04 16:29:01.041 [main] StepDef - Password is entered
+[INFO ] 2023-07-04 16:29:05.271 [main] StepDef - User clicked on login button
+[INFO ] 2023-07-04 16:29:07.885 [main] StepDef - User clicked on stay Signed
+[INFO ] 2023-07-04 16:29:26.935 [main] StepDef - User clicked on Homepage link
+[INFO ] 2023-07-04 16:29:36.840 [main] StepDef - User is at SFC-Fillings section
+[INFO ] 2023-07-04 16:29:36.924 [main] StepDef - User clicked on  SFC-Fillings Web Part in Accounts & Finance Page
+[INFO ] 2023-07-04 16:29:37.661 [main] StepDef - It will open new Window
+[INFO ] 2023-07-04 16:29:37.678 [main] StepDef - It should redirects to https://ir.kodiak.com/ URL:Access Denied
+[INFO ] 2023-07-04 16:29:37.678 [main] StepDef - It should redirects to https://ir.kodiak.com/ URL:https://ir.kodiak.com/financial-information/sec-filings
+[FATAL] 2023-07-04 16:59:40.257 [main] StepDef - Setup1 executed...
+[INFO ] 2023-07-04 16:59:40.288 [main] StepDef - Browser is launched
+[INFO ] 2023-07-04 16:59:49.502 [main] StepDef - Url is opened
+[INFO ] 2023-07-04 16:59:49.722 [main] StepDef - Email address is entered
+[INFO ] 2023-07-04 16:59:49.847 [main] StepDef - Password is entered
+[INFO ] 2023-07-04 16:59:53.804 [main] StepDef - User clicked on login button
+[INFO ] 2023-07-04 16:59:56.347 [main] StepDef - User clicked on stay Signed
+[INFO ] 2023-07-04 17:00:07.928 [main] StepDef - User clicked on Homepage link
+[INFO ] 2023-07-04 17:00:07.953 [main] StepDef - User is highligheted on Organization link
+[INFO ] 2023-07-04 17:00:08.142 [main] StepDef - User clicked on the Organization menu menu
+[INFO ] 2023-07-04 17:00:11.188 [main] StepDef - User is waited to get element of clinical operation on mouse over
+[INFO ] 2023-07-04 17:00:13.498 [main] StepDef - User is clicked on the clinical operations link on Men menu
+[INFO ] 2023-07-04 17:00:13.714 [main] StepDef - User is waited to get an element of homepage Clinical operaion link
+[INFO ] 2023-07-04 17:00:13.755 [main] StepDef - User is clicked on the homepage Clinical operaion link
+[INFO ] 2023-07-04 17:00:15.041 [main] StepDef - User is in Clinical Operation Page
+[INFO ] 2023-07-04 17:00:15.118 [main] StepDef - User is waited to get an element of homepage Clinical operaion link
+[INFO ] 2023-07-04 17:00:15.240 [main] StepDef - User is clicked on the homepage Clinical operaion link
+[INFO ] 2023-07-04 17:00:16.481 [main] StepDef - User is at Upcoming Events section
+[FATAL] 2023-07-04 17:03:40.286 [main] StepDef - Setup1 executed...
+[INFO ] 2023-07-04 17:03:40.314 [main] StepDef - Browser is launched
+[INFO ] 2023-07-04 17:03:47.199 [main] StepDef - Url is opened
+[INFO ] 2023-07-04 17:03:47.360 [main] StepDef - Email address is entered
+[INFO ] 2023-07-04 17:03:47.492 [main] StepDef - Password is entered
+[INFO ] 2023-07-04 17:03:51.483 [main] StepDef - User clicked on login button
+[INFO ] 2023-07-04 17:04:02.275 [main] StepDef - User clicked on stay Signed
+[INFO ] 2023-07-04 17:04:03.760 [main] StepDef - User clicked on Homepage link
+[INFO ] 2023-07-04 17:04:03.793 [main] StepDef - User is highligheted on Organization link
+[INFO ] 2023-07-04 17:04:04.076 [main] StepDef - User clicked on the Organization menu menu
+[INFO ] 2023-07-04 17:04:07.121 [main] StepDef - User is waited to get element of clinical operation on mouse over
+[INFO ] 2023-07-04 17:04:09.332 [main] StepDef - User is clicked on the clinical operations link on Men menu
+[INFO ] 2023-07-04 17:04:09.504 [main] StepDef - User is waited to get an element of homepage Clinical operaion link
+[INFO ] 2023-07-04 17:04:09.555 [main] StepDef - User is clicked on the homepage Clinical operaion link
+[INFO ] 2023-07-04 17:04:10.799 [main] StepDef - User is in Clinical Operation Page
+[INFO ] 2023-07-04 17:04:10.907 [main] StepDef - User is at Upcoming Events section
+[FATAL] 2023-07-04 17:30:40.214 [main] StepDef - Setup1 executed...
+[INFO ] 2023-07-04 17:30:40.291 [main] StepDef - Browser is launched
+[INFO ] 2023-07-04 17:30:48.935 [main] StepDef - Url is opened
+[INFO ] 2023-07-04 17:30:49.088 [main] StepDef - Email address is entered
+[INFO ] 2023-07-04 17:30:49.192 [main] StepDef - Password is entered
+[INFO ] 2023-07-04 17:30:52.979 [main] StepDef - User clicked on login button
+[INFO ] 2023-07-04 17:31:08.243 [main] StepDef - User clicked on stay Signed
+[INFO ] 2023-07-04 17:31:11.293 [main] StepDef - User clicked on Homepage link
+[INFO ] 2023-07-04 17:31:11.314 [main] StepDef - User is highligheted on Organization link
+[INFO ] 2023-07-04 17:31:11.477 [main] StepDef - User clicked on the Organization menu menu
+[INFO ] 2023-07-04 17:31:14.519 [main] StepDef - User is waited to get element of clinical operation on mouse over
+[INFO ] 2023-07-04 17:31:16.757 [main] StepDef - User is clicked on the clinical operations link on Men menu
+[INFO ] 2023-07-04 17:31:16.790 [main] StepDef - User is waited to get an element of homepage Clinical operaion link
+[INFO ] 2023-07-04 17:31:16.827 [main] StepDef - User is clicked on the homepage Clinical operaion link
+[INFO ] 2023-07-04 17:31:17.932 [main] StepDef - User is in Clinical Operation Page
+[INFO ] 2023-07-04 17:31:18.014 [main] StepDef - User is at Upcoming Events section
+[FATAL] 2023-07-04 21:18:06.858 [TestNG-test=Cucumber Tests-1] StepDef - Setup1 executed...
+[INFO ] 2023-07-04 21:18:07.090 [TestNG-test=Cucumber Tests-1] StepDef - Browser is launched
+[INFO ] 2023-07-04 21:18:14.504 [TestNG-test=Cucumber Tests-1] StepDef - Url is opened
+[INFO ] 2023-07-04 21:18:15.157 [TestNG-test=Cucumber Tests-1] StepDef - Email address is entered
+[INFO ] 2023-07-04 21:18:15.876 [TestNG-test=Cucumber Tests-1] StepDef - Password is entered
+[INFO ] 2023-07-04 21:18:19.259 [TestNG-test=Cucumber Tests-1] StepDef - User clicked on login button
+[INFO ] 2023-07-04 21:18:22.773 [TestNG-test=Cucumber Tests-1] StepDef - User clicked on stay Signed
+[INFO ] 2023-07-04 21:19:17.682 [TestNG-test=Cucumber Tests-1] StepDef - Location section should be displayed
+[INFO ] 2023-07-04 21:19:19.427 [TestNG-test=Cucumber Tests-1] StepDef - Browser is closed
+[FATAL] 2023-07-04 21:34:55.888 [TestNG-test=Cucumber Tests-1] StepDef - Setup1 executed...
+[INFO ] 2023-07-04 21:34:56.124 [TestNG-test=Cucumber Tests-1] StepDef - Browser is launched
+[INFO ] 2023-07-04 21:35:01.880 [TestNG-test=Cucumber Tests-1] StepDef - Url is opened
+[INFO ] 2023-07-04 21:35:03.154 [TestNG-test=Cucumber Tests-1] StepDef - Email address is entered
+[INFO ] 2023-07-04 21:35:03.978 [TestNG-test=Cucumber Tests-1] StepDef - Password is entered
+[INFO ] 2023-07-04 21:35:06.936 [TestNG-test=Cucumber Tests-1] StepDef - User clicked on login button
+[INFO ] 2023-07-04 21:35:23.262 [TestNG-test=Cucumber Tests-1] StepDef - User clicked on stay Signed
+[INFO ] 2023-07-04 21:35:48.989 [TestNG-test=Cucumber Tests-1] StepDef - Location section should be displayed
+[INFO ] 2023-07-04 21:35:51.035 [TestNG-test=Cucumber Tests-1] StepDef - Browser is closed
+[FATAL] 2023-07-05 15:07:37.337 [TestNG-test=Cucumber Tests-1] StepDef - Setup1 executed...
+[INFO ] 2023-07-05 15:07:37.732 [TestNG-test=Cucumber Tests-1] StepDef - Browser is launched
+[INFO ] 2023-07-05 15:07:45.781 [TestNG-test=Cucumber Tests-1] StepDef - Url is opened
+[INFO ] 2023-07-05 15:07:46.642 [TestNG-test=Cucumber Tests-1] StepDef - Email address is entered
+[INFO ] 2023-07-05 15:07:47.458 [TestNG-test=Cucumber Tests-1] StepDef - Password is entered
+[INFO ] 2023-07-05 15:07:50.191 [TestNG-test=Cucumber Tests-1] StepDef - User clicked on login button
+[INFO ] 2023-07-05 15:08:05.461 [TestNG-test=Cucumber Tests-1] StepDef - User clicked on stay Signed
+[INFO ] 2023-07-05 15:08:12.270 [TestNG-test=Cucumber Tests-1] StepDef - User clicked on Homepage link
+[INFO ] 2023-07-05 15:08:12.518 [TestNG-test=Cucumber Tests-1] StepDef - User is highligheted on Organization link
+[INFO ] 2023-07-05 15:08:17.047 [TestNG-test=Cucumber Tests-1] StepDef - User clicked on the Organization menu menu
+[FATAL] 2023-07-05 15:15:36.849 [TestNG-test=Cucumber Tests-1] StepDef - Setup1 executed...
+[INFO ] 2023-07-05 15:15:37.343 [TestNG-test=Cucumber Tests-1] StepDef - Browser is launched
+[INFO ] 2023-07-05 15:15:53.178 [TestNG-test=Cucumber Tests-1] StepDef - Url is opened
+[INFO ] 2023-07-05 15:15:55.772 [TestNG-test=Cucumber Tests-1] StepDef - Email address is entered
+[INFO ] 2023-07-05 15:15:56.689 [TestNG-test=Cucumber Tests-1] StepDef - Password is entered
+[INFO ] 2023-07-05 15:16:04.070 [TestNG-test=Cucumber Tests-1] StepDef - User clicked on login button
+[INFO ] 2023-07-05 15:16:43.448 [TestNG-test=Cucumber Tests-1] StepDef - User clicked on stay Signed
+[INFO ] 2023-07-05 15:17:14.149 [TestNG-test=Cucumber Tests-1] StepDef - User clicked on Homepage link
+[INFO ] 2023-07-05 15:17:14.359 [TestNG-test=Cucumber Tests-1] StepDef - User is highligheted on Organization link
+[INFO ] 2023-07-05 15:17:16.894 [TestNG-test=Cucumber Tests-1] StepDef - User clicked on the Organization menu menu
+[INFO ] 2023-07-05 15:17:20.693 [TestNG-test=Cucumber Tests-1] StepDef - User is waited to get element of clinical operation on mouse over
+[INFO ] 2023-07-05 15:17:26.264 [TestNG-test=Cucumber Tests-1] StepDef - User is clicked on the clinical operations link on Men menu
+[INFO ] 2023-07-05 15:17:31.772 [TestNG-test=Cucumber Tests-1] StepDef - User is waited to get an element of homepage Clinical operaion link
+[INFO ] 2023-07-05 15:17:32.331 [TestNG-test=Cucumber Tests-1] StepDef - User is clicked on the homepage Clinical operaion link
+[INFO ] 2023-07-05 15:17:35.335 [TestNG-test=Cucumber Tests-1] StepDef - User is in Clinical Operation Page
+[INFO ] 2023-07-05 15:17:37.682 [TestNG-test=Cucumber Tests-1] StepDef - User is at Upcoming Events section
+[FATAL] 2023-07-05 15:31:10.821 [TestNG-test=Cucumber Tests-1] StepDef - Setup1 executed...
+[INFO ] 2023-07-05 15:31:11.120 [TestNG-test=Cucumber Tests-1] StepDef - Browser is launched
+[INFO ] 2023-07-05 15:31:16.776 [TestNG-test=Cucumber Tests-1] StepDef - Url is opened
+[INFO ] 2023-07-05 15:31:17.497 [TestNG-test=Cucumber Tests-1] StepDef - Email address is entered
+[INFO ] 2023-07-05 15:31:18.056 [TestNG-test=Cucumber Tests-1] StepDef - Password is entered
+[INFO ] 2023-07-05 15:31:20.546 [TestNG-test=Cucumber Tests-1] StepDef - User clicked on login button
+[INFO ] 2023-07-05 15:31:39.182 [TestNG-test=Cucumber Tests-1] StepDef - User clicked on stay Signed
+[INFO ] 2023-07-05 15:31:57.666 [TestNG-test=Cucumber Tests-1] StepDef - User clicked on Homepage link
+[INFO ] 2023-07-05 15:32:00.657 [TestNG-test=Cucumber Tests-1] StepDef - User is highligheted on Organization link
+[INFO ] 2023-07-05 15:32:03.966 [TestNG-test=Cucumber Tests-1] StepDef - User clicked on the Organization menu menu
+[INFO ] 2023-07-05 15:32:07.123 [TestNG-test=Cucumber Tests-1] StepDef - User is waited to get element of clinical operation on mouse over
+[INFO ] 2023-07-05 15:32:12.771 [TestNG-test=Cucumber Tests-1] StepDef - User is clicked on the clinical operations link on Men menu
+[INFO ] 2023-07-05 15:32:19.820 [TestNG-test=Cucumber Tests-1] StepDef - User is waited to get an element of homepage Clinical operaion link
+[INFO ] 2023-07-05 15:32:19.999 [TestNG-test=Cucumber Tests-1] StepDef - User is clicked on the homepage Clinical operaion link
+[INFO ] 2023-07-05 15:32:22.511 [TestNG-test=Cucumber Tests-1] StepDef - User is in Clinical Operation Page
+[FATAL] 2023-07-05 15:56:16.547 [TestNG-test=Cucumber Tests-1] StepDef - Setup1 executed...
+[INFO ] 2023-07-05 15:56:16.723 [TestNG-test=Cucumber Tests-1] StepDef - Browser is launched
+[INFO ] 2023-07-05 15:56:23.495 [TestNG-test=Cucumber Tests-1] StepDef - Url is opened
+[INFO ] 2023-07-05 15:56:24.122 [TestNG-test=Cucumber Tests-1] StepDef - Email address is entered
+[INFO ] 2023-07-05 15:56:24.684 [TestNG-test=Cucumber Tests-1] StepDef - Password is entered
+[INFO ] 2023-07-05 15:56:26.538 [TestNG-test=Cucumber Tests-1] StepDef - User clicked on login button
+[INFO ] 2023-07-05 15:56:38.631 [TestNG-test=Cucumber Tests-1] StepDef - User clicked on stay Signed
+[INFO ] 2023-07-05 15:56:46.437 [TestNG-test=Cucumber Tests-1] StepDef - User clicked on Homepage link
+[INFO ] 2023-07-05 15:56:49.497 [TestNG-test=Cucumber Tests-1] StepDef - User is highligheted on Organization link
+[INFO ] 2023-07-05 15:56:49.850 [TestNG-test=Cucumber Tests-1] StepDef - User clicked on the Organization menu menu
+[INFO ] 2023-07-05 15:56:52.989 [TestNG-test=Cucumber Tests-1] StepDef - User is waited to get element of clinical operation on mouse over
+[INFO ] 2023-07-05 15:56:58.509 [TestNG-test=Cucumber Tests-1] StepDef - User is clicked on the clinical operations link on Men menu
+[INFO ] 2023-07-05 15:57:08.456 [TestNG-test=Cucumber Tests-1] StepDef - User is waited to get an element of homepage Clinical operaion link
+[INFO ] 2023-07-05 15:57:09.343 [TestNG-test=Cucumber Tests-1] StepDef - User is clicked on the homepage Clinical operaion link
+[INFO ] 2023-07-05 15:57:12.635 [TestNG-test=Cucumber Tests-1] StepDef - User is in Clinical Operation Page
+[FATAL] 2023-07-05 16:36:16.732 [TestNG-test=Cucumber Tests-1] StepDef - Setup1 executed...
+[INFO ] 2023-07-05 16:36:17.014 [TestNG-test=Cucumber Tests-1] StepDef - Browser is launched
+[INFO ] 2023-07-05 16:36:22.486 [TestNG-test=Cucumber Tests-1] StepDef - Url is opened
+[INFO ] 2023-07-05 16:36:23.077 [TestNG-test=Cucumber Tests-1] StepDef - Email address is entered
+[INFO ] 2023-07-05 16:36:23.633 [TestNG-test=Cucumber Tests-1] StepDef - Password is entered
+[INFO ] 2023-07-05 16:36:25.131 [TestNG-test=Cucumber Tests-1] StepDef - User clicked on login button
+[INFO ] 2023-07-05 16:36:37.687 [TestNG-test=Cucumber Tests-1] StepDef - User clicked on stay Signed
+[INFO ] 2023-07-05 16:36:49.244 [TestNG-test=Cucumber Tests-1] StepDef - User clicked on Homepage link
+[INFO ] 2023-07-05 16:36:50.536 [TestNG-test=Cucumber Tests-1] StepDef - User is highligheted on Organization link
+[INFO ] 2023-07-05 16:36:52.835 [TestNG-test=Cucumber Tests-1] StepDef - User clicked on the Organization menu menu
+[INFO ] 2023-07-05 16:36:56.202 [TestNG-test=Cucumber Tests-1] StepDef - User is waited to get element of clinical operation on mouse over
+[INFO ] 2023-07-05 16:37:02.168 [TestNG-test=Cucumber Tests-1] StepDef - User is clicked on the clinical operations link on Men menu
+[INFO ] 2023-07-05 16:37:06.290 [TestNG-test=Cucumber Tests-1] StepDef - User is waited to get an element of homepage Clinical operaion link
+[INFO ] 2023-07-05 16:37:07.107 [TestNG-test=Cucumber Tests-1] StepDef - User is clicked on the homepage Clinical operaion link
+[INFO ] 2023-07-05 16:37:11.132 [TestNG-test=Cucumber Tests-1] StepDef - User is in Clinical Operation Page
+[FATAL] 2023-07-05 16:47:48.999 [TestNG-test=Cucumber Tests-1] StepDef - Setup1 executed...
+[INFO ] 2023-07-05 16:47:49.550 [TestNG-test=Cucumber Tests-1] StepDef - Browser is launched
+[INFO ] 2023-07-05 16:47:56.893 [TestNG-test=Cucumber Tests-1] StepDef - Url is opened
+[INFO ] 2023-07-05 16:47:57.969 [TestNG-test=Cucumber Tests-1] StepDef - Email address is entered
+[INFO ] 2023-07-05 16:47:58.806 [TestNG-test=Cucumber Tests-1] StepDef - Password is entered
+[INFO ] 2023-07-05 16:47:59.743 [TestNG-test=Cucumber Tests-1] StepDef - User clicked on login button
+[FATAL] 2023-07-05 16:51:42.314 [TestNG-test=Cucumber Tests-1] StepDef - Setup1 executed...
+[INFO ] 2023-07-05 16:51:42.963 [TestNG-test=Cucumber Tests-1] StepDef - Browser is launched
+[INFO ] 2023-07-05 16:51:50.682 [TestNG-test=Cucumber Tests-1] StepDef - Url is opened
+[INFO ] 2023-07-05 16:51:51.338 [TestNG-test=Cucumber Tests-1] StepDef - Email address is entered
+[INFO ] 2023-07-05 16:51:52.183 [TestNG-test=Cucumber Tests-1] StepDef - Password is entered
+[INFO ] 2023-07-05 16:51:54.746 [TestNG-test=Cucumber Tests-1] StepDef - User clicked on login button
+[INFO ] 2023-07-05 16:51:57.596 [TestNG-test=Cucumber Tests-1] StepDef - User clicked on stay Signed
+[INFO ] 2023-07-05 16:52:34.860 [TestNG-test=Cucumber Tests-1] StepDef - User clicked on Homepage link
+[INFO ] 2023-07-05 16:52:36.284 [TestNG-test=Cucumber Tests-1] StepDef - User is highligheted on Organization link
+[INFO ] 2023-07-05 16:52:43.728 [TestNG-test=Cucumber Tests-1] StepDef - User clicked on the Organization menu menu
+[INFO ] 2023-07-05 16:52:47.081 [TestNG-test=Cucumber Tests-1] StepDef - User is waited to get element of clinical operation on mouse over
+[INFO ] 2023-07-05 16:52:52.916 [TestNG-test=Cucumber Tests-1] StepDef - User is clicked on the clinical operations link on Men menu
+[INFO ] 2023-07-05 16:52:57.041 [TestNG-test=Cucumber Tests-1] StepDef - User is waited to get an element of homepage Clinical operaion link
+[INFO ] 2023-07-05 16:52:57.507 [TestNG-test=Cucumber Tests-1] StepDef - User is clicked on the homepage Clinical operaion link
+[INFO ] 2023-07-05 16:53:01.072 [TestNG-test=Cucumber Tests-1] StepDef - User is in Clinical Operation Page
+[INFO ] 2023-07-05 16:53:03.330 [TestNG-test=Cucumber Tests-1] StepDef - See All link is displaying
+[FATAL] 2023-07-05 21:01:12.003 [TestNG-test=Cucumber Tests-1] StepDef - Setup1 executed...
+[INFO ] 2023-07-05 21:01:12.363 [TestNG-test=Cucumber Tests-1] StepDef - Browser is launched
+[INFO ] 2023-07-05 21:01:16.965 [TestNG-test=Cucumber Tests-1] StepDef - Url is opened
+[INFO ] 2023-07-05 21:01:17.586 [TestNG-test=Cucumber Tests-1] StepDef - Email address is entered
+[INFO ] 2023-07-05 21:01:18.157 [TestNG-test=Cucumber Tests-1] StepDef - Password is entered
+[INFO ] 2023-07-05 21:01:19.521 [TestNG-test=Cucumber Tests-1] StepDef - User clicked on login button
+[INFO ] 2023-07-05 21:01:22.948 [TestNG-test=Cucumber Tests-1] StepDef - User clicked on stay Signed
+[INFO ] 2023-07-05 21:01:46.260 [TestNG-test=Cucumber Tests-1] StepDef - User clicked on Homepage link
+[INFO ] 2023-07-05 21:01:47.492 [TestNG-test=Cucumber Tests-1] StepDef - User is highligheted on Organization link
+[INFO ] 2023-07-05 21:01:50.428 [TestNG-test=Cucumber Tests-1] StepDef - User clicked on the Organization menu menu
+[INFO ] 2023-07-05 21:01:53.807 [TestNG-test=Cucumber Tests-1] StepDef - User is waited to get element of clinical operation on mouse over
+[INFO ] 2023-07-05 21:01:59.368 [TestNG-test=Cucumber Tests-1] StepDef - User is clicked on the clinical operations link on Men menu
+[INFO ] 2023-07-05 21:02:04.248 [TestNG-test=Cucumber Tests-1] StepDef - User is waited to get an element of homepage Clinical operaion link
+[INFO ] 2023-07-05 21:02:04.781 [TestNG-test=Cucumber Tests-1] StepDef - User is clicked on the homepage Clinical operaion link
+[INFO ] 2023-07-05 21:02:09.938 [TestNG-test=Cucumber Tests-1] StepDef - User is in Clinical Operation Page
+[FATAL] 2023-07-05 21:20:46.877 [TestNG-test=Cucumber Tests-1] StepDef - Setup1 executed...
+[INFO ] 2023-07-05 21:20:47.148 [TestNG-test=Cucumber Tests-1] StepDef - Browser is launched
+[INFO ] 2023-07-05 21:20:54.312 [TestNG-test=Cucumber Tests-1] StepDef - Url is opened
+[INFO ] 2023-07-05 21:20:54.903 [TestNG-test=Cucumber Tests-1] StepDef - Email address is entered
+[INFO ] 2023-07-05 21:20:55.425 [TestNG-test=Cucumber Tests-1] StepDef - Password is entered
+[INFO ] 2023-07-05 21:20:57.093 [TestNG-test=Cucumber Tests-1] StepDef - User clicked on login button
+[INFO ] 2023-07-05 21:21:33.875 [TestNG-test=Cucumber Tests-1] StepDef - User clicked on stay Signed
+[INFO ] 2023-07-05 21:22:05.175 [TestNG-test=Cucumber Tests-1] StepDef - User clicked on Homepage link
+[INFO ] 2023-07-05 21:22:05.328 [TestNG-test=Cucumber Tests-1] StepDef - User is highligheted on Organization link
+[INFO ] 2023-07-05 21:22:05.795 [TestNG-test=Cucumber Tests-1] StepDef - User clicked on the Organization menu menu
+[INFO ] 2023-07-05 21:22:08.915 [TestNG-test=Cucumber Tests-1] StepDef - User is waited to get element of clinical operation on mouse over
+[INFO ] 2023-07-05 21:22:12.686 [TestNG-test=Cucumber Tests-1] StepDef - User is clicked on the clinical operations link on Men menu
+[INFO ] 2023-07-05 21:22:18.906 [TestNG-test=Cucumber Tests-1] StepDef - User is waited to get an element of homepage Clinical operaion link
+[INFO ] 2023-07-05 21:22:19.332 [TestNG-test=Cucumber Tests-1] StepDef - User is clicked on the homepage Clinical operaion link
+[INFO ] 2023-07-05 21:22:22.634 [TestNG-test=Cucumber Tests-1] StepDef - User is in Clinical Operation Page
+[FATAL] 2023-07-05 21:26:41.177 [TestNG-test=Cucumber Tests-1] StepDef - Setup1 executed...
+[INFO ] 2023-07-05 21:26:41.414 [TestNG-test=Cucumber Tests-1] StepDef - Browser is launched
+[INFO ] 2023-07-05 21:26:48.217 [TestNG-test=Cucumber Tests-1] StepDef - Url is opened
+[INFO ] 2023-07-05 21:26:48.987 [TestNG-test=Cucumber Tests-1] StepDef - Email address is entered
+[INFO ] 2023-07-05 21:26:50.453 [TestNG-test=Cucumber Tests-1] StepDef - Password is entered
+[INFO ] 2023-07-05 21:26:52.446 [TestNG-test=Cucumber Tests-1] StepDef - User clicked on login button
+[FATAL] 2023-07-05 21:53:41.099 [TestNG-test=Cucumber Tests-1] StepDef - Setup1 executed...
+[INFO ] 2023-07-05 21:53:41.375 [TestNG-test=Cucumber Tests-1] StepDef - Browser is launched
+[INFO ] 2023-07-05 21:53:47.126 [TestNG-test=Cucumber Tests-1] StepDef - Url is opened
+[INFO ] 2023-07-05 21:53:47.840 [TestNG-test=Cucumber Tests-1] StepDef - Email address is entered
+[INFO ] 2023-07-05 21:53:48.361 [TestNG-test=Cucumber Tests-1] StepDef - Password is entered
+[INFO ] 2023-07-05 21:53:50.480 [TestNG-test=Cucumber Tests-1] StepDef - User clicked on login button
+[INFO ] 2023-07-05 21:53:53.615 [TestNG-test=Cucumber Tests-1] StepDef - User clicked on stay Signed
+[INFO ] 2023-07-05 21:54:07.286 [TestNG-test=Cucumber Tests-1] StepDef - User clicked on Homepage link
+[INFO ] 2023-07-05 21:54:07.400 [TestNG-test=Cucumber Tests-1] StepDef - User is highligheted on Organization link
+[INFO ] 2023-07-05 21:54:07.841 [TestNG-test=Cucumber Tests-1] StepDef - User clicked on the Organization menu menu
+[INFO ] 2023-07-05 21:54:11.025 [TestNG-test=Cucumber Tests-1] StepDef - User is waited to get element of clinical operation on mouse over
+[INFO ] 2023-07-05 21:54:15.540 [TestNG-test=Cucumber Tests-1] StepDef - User is clicked on the clinical operations link on Men menu
+[INFO ] 2023-07-05 21:54:23.000 [TestNG-test=Cucumber Tests-1] StepDef - User is waited to get an element of homepage Clinical operaion link
+[INFO ] 2023-07-05 21:54:23.253 [TestNG-test=Cucumber Tests-1] StepDef - User is clicked on the homepage Clinical operaion link
+[INFO ] 2023-07-05 21:54:31.417 [TestNG-test=Cucumber Tests-1] StepDef - User is in Clinical Operation Page
+[FATAL] 2023-07-05 22:06:58.603 [TestNG-test=Cucumber Tests-1] StepDef - Setup1 executed...
+[INFO ] 2023-07-05 22:06:58.986 [TestNG-test=Cucumber Tests-1] StepDef - Browser is launched
+[INFO ] 2023-07-05 22:07:05.007 [TestNG-test=Cucumber Tests-1] StepDef - Url is opened
+[INFO ] 2023-07-05 22:07:06.207 [TestNG-test=Cucumber Tests-1] StepDef - Email address is entered
+[INFO ] 2023-07-05 22:07:07.178 [TestNG-test=Cucumber Tests-1] StepDef - Password is entered
+[INFO ] 2023-07-05 22:07:09.549 [TestNG-test=Cucumber Tests-1] StepDef - User clicked on login button
+[INFO ] 2023-07-05 22:07:35.021 [TestNG-test=Cucumber Tests-1] StepDef - User clicked on stay Signed
+[INFO ] 2023-07-05 22:07:55.459 [TestNG-test=Cucumber Tests-1] StepDef - User clicked on Homepage link
+[INFO ] 2023-07-05 22:07:55.878 [TestNG-test=Cucumber Tests-1] StepDef - User is highligheted on Organization link
+[INFO ] 2023-07-05 22:07:57.325 [TestNG-test=Cucumber Tests-1] StepDef - User clicked on the Organization menu menu
+[INFO ] 2023-07-05 22:08:01.914 [TestNG-test=Cucumber Tests-1] StepDef - User is waited to get element of clinical operation on mouse over
+[INFO ] 2023-07-05 22:08:10.997 [TestNG-test=Cucumber Tests-1] StepDef - User is clicked on the clinical operations link on Men menu
+[INFO ] 2023-07-05 22:08:20.984 [TestNG-test=Cucumber Tests-1] StepDef - User is waited to get an element of homepage Clinical operaion link
+[INFO ] 2023-07-05 22:08:22.019 [TestNG-test=Cucumber Tests-1] StepDef - User is clicked on the homepage Clinical operaion link
+[INFO ] 2023-07-05 22:08:28.299 [TestNG-test=Cucumber Tests-1] StepDef - User is in Clinical Operation Page
+[FATAL] 2023-07-05 22:37:02.285 [TestNG-test=Cucumber Tests-1] StepDef - Setup1 executed...
+[INFO ] 2023-07-05 22:37:02.487 [TestNG-test=Cucumber Tests-1] StepDef - Browser is launched
+[INFO ] 2023-07-05 22:37:13.533 [TestNG-test=Cucumber Tests-1] StepDef - Url is opened
+[INFO ] 2023-07-05 22:37:14.361 [TestNG-test=Cucumber Tests-1] StepDef - Email address is entered
+[INFO ] 2023-07-05 22:37:15.686 [TestNG-test=Cucumber Tests-1] StepDef - Password is entered
+[INFO ] 2023-07-05 22:37:16.252 [TestNG-test=Cucumber Tests-1] StepDef - User clicked on login button
+[FATAL] 2023-07-05 22:46:41.210 [TestNG-test=Cucumber Tests-1] StepDef - Setup1 executed...
+[INFO ] 2023-07-05 22:46:41.428 [TestNG-test=Cucumber Tests-1] StepDef - Browser is launched
+[INFO ] 2023-07-05 22:46:49.698 [TestNG-test=Cucumber Tests-1] StepDef - Url is opened
+[INFO ] 2023-07-05 22:46:50.650 [TestNG-test=Cucumber Tests-1] StepDef - Email address is entered
+[INFO ] 2023-07-05 22:46:51.952 [TestNG-test=Cucumber Tests-1] StepDef - Password is entered
+[INFO ] 2023-07-05 22:46:52.588 [TestNG-test=Cucumber Tests-1] StepDef - User clicked on login button
+[FATAL] 2023-07-05 23:06:12.974 [TestNG-test=Cucumber Tests-1] StepDef - Setup1 executed...
+[INFO ] 2023-07-05 23:06:13.150 [TestNG-test=Cucumber Tests-1] StepDef - Browser is launched
+[INFO ] 2023-07-05 23:06:18.410 [TestNG-test=Cucumber Tests-1] StepDef - Url is opened
+[INFO ] 2023-07-05 23:06:19.016 [TestNG-test=Cucumber Tests-1] StepDef - Email address is entered
+[INFO ] 2023-07-05 23:06:19.521 [TestNG-test=Cucumber Tests-1] StepDef - Password is entered
+[INFO ] 2023-07-05 23:06:21.028 [TestNG-test=Cucumber Tests-1] StepDef - User clicked on login button
+[INFO ] 2023-07-05 23:06:31.547 [TestNG-test=Cucumber Tests-1] StepDef - User clicked on stay Signed
+[INFO ] 2023-07-05 23:06:36.084 [TestNG-test=Cucumber Tests-1] StepDef - User clicked on Homepage link
+[INFO ] 2023-07-05 23:06:36.327 [TestNG-test=Cucumber Tests-1] StepDef - User is highligheted on Organization link
+[INFO ] 2023-07-05 23:06:36.891 [TestNG-test=Cucumber Tests-1] StepDef - User clicked on the Organization menu menu
+[INFO ] 2023-07-05 23:06:40.332 [TestNG-test=Cucumber Tests-1] StepDef - User is waited to get element of clinical operation on mouse over
+[INFO ] 2023-07-05 23:06:44.308 [TestNG-test=Cucumber Tests-1] StepDef - User is clicked on the clinical operations link on Men menu
+[INFO ] 2023-07-05 23:06:52.350 [TestNG-test=Cucumber Tests-1] StepDef - User is waited to get an element of homepage Clinical operaion link
+[INFO ] 2023-07-05 23:06:53.048 [TestNG-test=Cucumber Tests-1] StepDef - User is clicked on the homepage Clinical operaion link
+[INFO ] 2023-07-05 23:06:59.401 [TestNG-test=Cucumber Tests-1] StepDef - User is in Clinical Operation Page
+[FATAL] 2023-07-05 23:20:30.689 [TestNG-test=Cucumber Tests-1] StepDef - Setup1 executed...
+[INFO ] 2023-07-05 23:20:30.935 [TestNG-test=Cucumber Tests-1] StepDef - Browser is launched
+[INFO ] 2023-07-05 23:20:35.972 [TestNG-test=Cucumber Tests-1] StepDef - Url is opened
+[INFO ] 2023-07-05 23:20:36.549 [TestNG-test=Cucumber Tests-1] StepDef - Email address is entered
+[INFO ] 2023-07-05 23:20:37.098 [TestNG-test=Cucumber Tests-1] StepDef - Password is entered
+[INFO ] 2023-07-05 23:20:38.440 [TestNG-test=Cucumber Tests-1] StepDef - User clicked on login button
+[INFO ] 2023-07-05 23:20:41.543 [TestNG-test=Cucumber Tests-1] StepDef - User clicked on stay Signed
+[INFO ] 2023-07-05 23:20:57.336 [TestNG-test=Cucumber Tests-1] StepDef - User clicked on Homepage link
+[INFO ] 2023-07-05 23:20:58.277 [TestNG-test=Cucumber Tests-1] StepDef - User is highligheted on Organization link
+[INFO ] 2023-07-05 23:21:00.078 [TestNG-test=Cucumber Tests-1] StepDef - User clicked on the Organization menu menu
+[INFO ] 2023-07-05 23:21:03.924 [TestNG-test=Cucumber Tests-1] StepDef - User is waited to get element of clinical operation on mouse over
+[INFO ] 2023-07-05 23:21:09.219 [TestNG-test=Cucumber Tests-1] StepDef - User is clicked on the clinical operations link on Men menu
+[INFO ] 2023-07-05 23:21:45.312 [TestNG-test=Cucumber Tests-1] StepDef - User is waited to get an element of homepage Clinical operaion link
+[INFO ] 2023-07-05 23:21:45.508 [TestNG-test=Cucumber Tests-1] StepDef - User is clicked on the homepage Clinical operaion link
+[INFO ] 2023-07-05 23:21:47.936 [TestNG-test=Cucumber Tests-1] StepDef - User is in Clinical Operation Page
+[FATAL] 2023-07-05 23:26:24.521 [TestNG-test=Cucumber Tests-1] StepDef - Setup1 executed...
+[INFO ] 2023-07-05 23:26:24.704 [TestNG-test=Cucumber Tests-1] StepDef - Browser is launched
+[INFO ] 2023-07-05 23:26:29.676 [TestNG-test=Cucumber Tests-1] StepDef - Url is opened
+[INFO ] 2023-07-05 23:26:30.292 [TestNG-test=Cucumber Tests-1] StepDef - Email address is entered
+[INFO ] 2023-07-05 23:26:30.833 [TestNG-test=Cucumber Tests-1] StepDef - Password is entered
+[INFO ] 2023-07-05 23:26:33.473 [TestNG-test=Cucumber Tests-1] StepDef - User clicked on login button
+[INFO ] 2023-07-05 23:26:36.268 [TestNG-test=Cucumber Tests-1] StepDef - User clicked on stay Signed
+[INFO ] 2023-07-05 23:27:09.960 [TestNG-test=Cucumber Tests-1] StepDef - User clicked on Homepage link
+[INFO ] 2023-07-05 23:27:11.296 [TestNG-test=Cucumber Tests-1] StepDef - User is highligheted on Organization link
+[INFO ] 2023-07-05 23:27:17.780 [TestNG-test=Cucumber Tests-1] StepDef - User clicked on the Organization menu menu
+[FATAL] 2023-07-05 23:36:14.288 [TestNG-test=Cucumber Tests-1] StepDef - Setup1 executed...
+[INFO ] 2023-07-05 23:36:14.963 [TestNG-test=Cucumber Tests-1] StepDef - Browser is launched
+[INFO ] 2023-07-05 23:36:20.800 [TestNG-test=Cucumber Tests-1] StepDef - Url is opened
+[INFO ] 2023-07-05 23:36:21.490 [TestNG-test=Cucumber Tests-1] StepDef - Email address is entered
+[INFO ] 2023-07-05 23:36:22.088 [TestNG-test=Cucumber Tests-1] StepDef - Password is entered
+[INFO ] 2023-07-05 23:36:25.116 [TestNG-test=Cucumber Tests-1] StepDef - User clicked on login button
+[INFO ] 2023-07-05 23:36:42.488 [TestNG-test=Cucumber Tests-1] StepDef - User clicked on stay Signed
+[INFO ] 2023-07-05 23:36:57.689 [TestNG-test=Cucumber Tests-1] StepDef - User clicked on Homepage link
+[INFO ] 2023-07-05 23:36:57.760 [TestNG-test=Cucumber Tests-1] StepDef - User is highligheted on Organization link
+[INFO ] 2023-07-05 23:36:58.161 [TestNG-test=Cucumber Tests-1] StepDef - User clicked on the Organization menu menu
+[INFO ] 2023-07-05 23:37:01.402 [TestNG-test=Cucumber Tests-1] StepDef - User is waited to get element of clinical operation on mouse over
+[INFO ] 2023-07-05 23:37:54.104 [TestNG-test=Cucumber Tests-1] StepDef - User is clicked on the clinical operations link on Men menu
+[INFO ] 2023-07-05 23:37:58.384 [TestNG-test=Cucumber Tests-1] StepDef - User is waited to get an element of homepage Clinical operaion link
+[INFO ] 2023-07-05 23:37:59.562 [TestNG-test=Cucumber Tests-1] StepDef - User is clicked on the homepage Clinical operaion link
+[INFO ] 2023-07-05 23:38:01.731 [TestNG-test=Cucumber Tests-1] StepDef - User is in Clinical Operation Page
+[FATAL] 2023-07-05 23:45:19.402 [TestNG-test=Cucumber Tests-1] StepDef - Setup1 executed...
+[INFO ] 2023-07-05 23:45:19.621 [TestNG-test=Cucumber Tests-1] StepDef - Browser is launched
+[INFO ] 2023-07-05 23:45:29.098 [TestNG-test=Cucumber Tests-1] StepDef - Url is opened
+[INFO ] 2023-07-05 23:45:29.958 [TestNG-test=Cucumber Tests-1] StepDef - Email address is entered
+[INFO ] 2023-07-05 23:45:31.073 [TestNG-test=Cucumber Tests-1] StepDef - Password is entered
+[INFO ] 2023-07-05 23:45:34.688 [TestNG-test=Cucumber Tests-1] StepDef - User clicked on login button
+[FATAL] 2023-07-05 23:53:19.951 [TestNG-test=Cucumber Tests-1] StepDef - Setup1 executed...
+[INFO ] 2023-07-05 23:53:20.328 [TestNG-test=Cucumber Tests-1] StepDef - Browser is launched
+[INFO ] 2023-07-05 23:53:26.062 [TestNG-test=Cucumber Tests-1] StepDef - Url is opened
+[INFO ] 2023-07-05 23:53:26.749 [TestNG-test=Cucumber Tests-1] StepDef - Email address is entered
+[INFO ] 2023-07-05 23:53:27.344 [TestNG-test=Cucumber Tests-1] StepDef - Password is entered
+[INFO ] 2023-07-05 23:53:29.366 [TestNG-test=Cucumber Tests-1] StepDef - User clicked on login button
+[INFO ] 2023-07-05 23:53:43.036 [TestNG-test=Cucumber Tests-1] StepDef - User clicked on stay Signed
+[INFO ] 2023-07-05 23:53:57.302 [TestNG-test=Cucumber Tests-1] StepDef - User clicked on Homepage link
+[INFO ] 2023-07-05 23:54:02.396 [TestNG-test=Cucumber Tests-1] StepDef - User is highligheted on Organization link
+[INFO ] 2023-07-05 23:54:03.413 [TestNG-test=Cucumber Tests-1] StepDef - User clicked on the Organization menu menu
+[INFO ] 2023-07-05 23:54:11.492 [TestNG-test=Cucumber Tests-1] StepDef - User is waited to get element of clinical operation on mouse over
+[INFO ] 2023-07-05 23:54:16.614 [TestNG-test=Cucumber Tests-1] StepDef - User is clicked on the clinical operations link on Men menu
+[INFO ] 2023-07-05 23:54:23.942 [TestNG-test=Cucumber Tests-1] StepDef - User is waited to get an element of homepage Clinical operaion link
+[INFO ] 2023-07-05 23:54:25.035 [TestNG-test=Cucumber Tests-1] StepDef - User is clicked on the homepage Clinical operaion link
+[INFO ] 2023-07-05 23:54:27.563 [TestNG-test=Cucumber Tests-1] StepDef - User is in Clinical Operation Page
+[FATAL] 2023-07-06 00:14:04.636 [TestNG-test=Cucumber Tests-1] StepDef - Setup1 executed...
+[INFO ] 2023-07-06 00:14:04.921 [TestNG-test=Cucumber Tests-1] StepDef - Browser is launched
+[INFO ] 2023-07-06 00:14:12.077 [TestNG-test=Cucumber Tests-1] StepDef - Url is opened
+[INFO ] 2023-07-06 00:14:12.664 [TestNG-test=Cucumber Tests-1] StepDef - Email address is entered
+[INFO ] 2023-07-06 00:14:13.214 [TestNG-test=Cucumber Tests-1] StepDef - Password is entered
+[INFO ] 2023-07-06 00:14:17.547 [TestNG-test=Cucumber Tests-1] StepDef - User clicked on login button
+[INFO ] 2023-07-06 00:14:20.497 [TestNG-test=Cucumber Tests-1] StepDef - User clicked on stay Signed
+[INFO ] 2023-07-06 00:14:59.531 [TestNG-test=Cucumber Tests-1] StepDef - User clicked on Homepage link
+[INFO ] 2023-07-06 00:14:59.703 [TestNG-test=Cucumber Tests-1] StepDef - User is highligheted on Organization link
+[INFO ] 2023-07-06 00:15:03.631 [TestNG-test=Cucumber Tests-1] StepDef - User clicked on the Organization menu menu
+[INFO ] 2023-07-06 00:15:06.752 [TestNG-test=Cucumber Tests-1] StepDef - User is waited to get element of clinical operation on mouse over
+[INFO ] 2023-07-06 00:15:14.916 [TestNG-test=Cucumber Tests-1] StepDef - User is clicked on the clinical operations link on Men menu
+[INFO ] 2023-07-06 00:15:19.719 [TestNG-test=Cucumber Tests-1] StepDef - User is waited to get an element of homepage Clinical operaion link
+[INFO ] 2023-07-06 00:15:19.908 [TestNG-test=Cucumber Tests-1] StepDef - User is clicked on the homepage Clinical operaion link
+[INFO ] 2023-07-06 00:15:23.487 [TestNG-test=Cucumber Tests-1] StepDef - User is in Clinical Operation Page
+[FATAL] 2023-07-06 00:26:28.618 [TestNG-test=Cucumber Tests-1] StepDef - Setup1 executed...
+[INFO ] 2023-07-06 00:26:30.034 [TestNG-test=Cucumber Tests-1] StepDef - Browser is launched
+[INFO ] 2023-07-06 00:26:39.440 [TestNG-test=Cucumber Tests-1] StepDef - Url is opened
+[INFO ] 2023-07-06 00:26:40.222 [TestNG-test=Cucumber Tests-1] StepDef - Email address is entered
+[INFO ] 2023-07-06 00:26:40.831 [TestNG-test=Cucumber Tests-1] StepDef - Password is entered
+[INFO ] 2023-07-06 00:26:43.194 [TestNG-test=Cucumber Tests-1] StepDef - User clicked on login button
+[INFO ] 2023-07-06 00:26:46.439 [TestNG-test=Cucumber Tests-1] StepDef - User clicked on stay Signed
+[INFO ] 2023-07-06 00:27:46.253 [TestNG-test=Cucumber Tests-1] StepDef - User clicked on Homepage link
+[INFO ] 2023-07-06 00:27:46.400 [TestNG-test=Cucumber Tests-1] StepDef - User is highligheted on Organization link
+[INFO ] 2023-07-06 00:27:47.705 [TestNG-test=Cucumber Tests-1] StepDef - User clicked on the Organization menu menu
+[INFO ] 2023-07-06 00:27:51.500 [TestNG-test=Cucumber Tests-1] StepDef - User is waited to get element of clinical operation on mouse over
+[INFO ] 2023-07-06 00:27:57.544 [TestNG-test=Cucumber Tests-1] StepDef - User is clicked on the clinical operations link on Men menu
+[INFO ] 2023-07-06 00:28:07.206 [TestNG-test=Cucumber Tests-1] StepDef - User is waited to get an element of homepage Clinical operaion link
+[INFO ] 2023-07-06 00:28:13.948 [TestNG-test=Cucumber Tests-1] StepDef - User is clicked on the homepage Clinical operaion link
+[INFO ] 2023-07-06 00:28:17.470 [TestNG-test=Cucumber Tests-1] StepDef - User is in Clinical Operation Page
+[FATAL] 2023-07-06 00:40:15.584 [TestNG-test=Cucumber Tests-1] StepDef - Setup1 executed...
+[INFO ] 2023-07-06 00:40:15.774 [TestNG-test=Cucumber Tests-1] StepDef - Browser is launched
+[INFO ] 2023-07-06 00:40:23.855 [TestNG-test=Cucumber Tests-1] StepDef - Url is opened
+[INFO ] 2023-07-06 00:40:24.898 [TestNG-test=Cucumber Tests-1] StepDef - Email address is entered
+[INFO ] 2023-07-06 00:40:25.588 [TestNG-test=Cucumber Tests-1] StepDef - Password is entered
+[INFO ] 2023-07-06 00:40:28.646 [TestNG-test=Cucumber Tests-1] StepDef - User clicked on login button
+[INFO ] 2023-07-06 00:40:59.215 [TestNG-test=Cucumber Tests-1] StepDef - User clicked on stay Signed
+[INFO ] 2023-07-06 00:41:32.060 [TestNG-test=Cucumber Tests-1] StepDef - User clicked on Homepage link
+[INFO ] 2023-07-06 00:41:32.206 [TestNG-test=Cucumber Tests-1] StepDef - User is highligheted on Organization link
+[INFO ] 2023-07-06 00:41:33.284 [TestNG-test=Cucumber Tests-1] StepDef - User clicked on the Organization menu menu
+[INFO ] 2023-07-06 00:41:38.162 [TestNG-test=Cucumber Tests-1] StepDef - User is waited to get element of clinical operation on mouse over
+[INFO ] 2023-07-06 00:41:49.447 [TestNG-test=Cucumber Tests-1] StepDef - User is clicked on the clinical operations link on Men menu
+[INFO ] 2023-07-06 00:42:00.980 [TestNG-test=Cucumber Tests-1] StepDef - User is waited to get an element of homepage Clinical operaion link
+[INFO ] 2023-07-06 00:42:01.546 [TestNG-test=Cucumber Tests-1] StepDef - User is clicked on the homepage Clinical operaion link
+[INFO ] 2023-07-06 00:42:10.055 [TestNG-test=Cucumber Tests-1] StepDef - User is in Clinical Operation Page
+[FATAL] 2023-07-06 01:41:31.567 [TestNG-test=Cucumber Tests-1] StepDef - Setup1 executed...
+[INFO ] 2023-07-06 01:41:32.403 [TestNG-test=Cucumber Tests-1] StepDef - Browser is launched
+[INFO ] 2023-07-06 01:41:41.956 [TestNG-test=Cucumber Tests-1] StepDef - Url is opened
+[INFO ] 2023-07-06 01:41:42.929 [TestNG-test=Cucumber Tests-1] StepDef - Email address is entered
+[INFO ] 2023-07-06 01:41:43.666 [TestNG-test=Cucumber Tests-1] StepDef - Password is entered
+[INFO ] 2023-07-06 01:41:48.168 [TestNG-test=Cucumber Tests-1] StepDef - User clicked on login button
+[INFO ] 2023-07-06 01:42:10.936 [TestNG-test=Cucumber Tests-1] StepDef - User clicked on stay Signed
+[INFO ] 2023-07-06 01:42:22.434 [TestNG-test=Cucumber Tests-1] StepDef - User clicked on Homepage link
+[INFO ] 2023-07-06 01:42:22.715 [TestNG-test=Cucumber Tests-1] StepDef - User is highligheted on Organization link
+[INFO ] 2023-07-06 01:42:25.458 [TestNG-test=Cucumber Tests-1] StepDef - User clicked on the Organization menu menu
+[INFO ] 2023-07-06 01:42:42.166 [TestNG-test=Cucumber Tests-1] StepDef - User is waited to get element of clinical operation on mouse over
+[INFO ] 2023-07-06 01:42:46.596 [TestNG-test=Cucumber Tests-1] StepDef - User is clicked on the clinical operations link on Men menu
+[INFO ] 2023-07-06 01:42:49.994 [TestNG-test=Cucumber Tests-1] StepDef - User is waited to get an element of homepage Clinical operaion link
+[INFO ] 2023-07-06 01:42:50.383 [TestNG-test=Cucumber Tests-1] StepDef - User is clicked on the homepage Clinical operaion link
+[INFO ] 2023-07-06 01:42:53.751 [TestNG-test=Cucumber Tests-1] StepDef - User is in Clinical Operation Page
+[FATAL] 2023-07-06 01:46:18.970 [main] StepDef - Setup1 executed...
+[INFO ] 2023-07-06 01:46:19.087 [main] StepDef - Browser is launched
+[INFO ] 2023-07-06 01:46:25.425 [main] StepDef - Url is opened
+[INFO ] 2023-07-06 01:46:26.011 [main] StepDef - Email address is entered
+[INFO ] 2023-07-06 01:46:26.652 [main] StepDef - Password is entered
+[INFO ] 2023-07-06 01:46:28.666 [main] StepDef - User clicked on login button
+[INFO ] 2023-07-06 01:46:31.517 [main] StepDef - User clicked on stay Signed
+[INFO ] 2023-07-06 01:46:45.222 [main] StepDef - User clicked on Homepage link
+[INFO ] 2023-07-06 01:46:45.322 [main] StepDef - User is highligheted on Organization link
+[INFO ] 2023-07-06 01:46:45.935 [main] StepDef - User clicked on the Organization menu menu
+[INFO ] 2023-07-06 01:47:14.859 [main] StepDef - User is waited to get element of clinical operation on mouse over
+[INFO ] 2023-07-06 01:47:20.783 [main] StepDef - User is clicked on the clinical operations link on Men menu
+[INFO ] 2023-07-06 01:47:25.350 [main] StepDef - User is waited to get an element of homepage Clinical operaion link
+[INFO ] 2023-07-06 01:47:25.611 [main] StepDef - User is clicked on the homepage Clinical operaion link
+[INFO ] 2023-07-06 01:47:30.461 [main] StepDef - User is in Clinical Operation Page
+[INFO ] 2023-07-06 01:47:31.323 [main] StepDef - User is at Vendor or Study List section
+[INFO ] 2023-07-06 01:47:31.324 [main] StepDef - List of Vendor or Study List is displaying
+[INFO ] 2023-07-06 01:47:31.508 [main] StepDef - Search options is displaying
+[FATAL] 2023-07-06 01:47:36.628 [main] StepDef - Setup1 executed...
+[INFO ] 2023-07-06 01:47:36.667 [main] StepDef - Browser is launched
+[INFO ] 2023-07-06 01:47:43.078 [main] StepDef - Url is opened
+[INFO ] 2023-07-06 01:47:43.916 [main] StepDef - Email address is entered
+[INFO ] 2023-07-06 01:47:44.690 [main] StepDef - Password is entered
+[INFO ] 2023-07-06 01:47:46.178 [main] StepDef - User clicked on login button
+[INFO ] 2023-07-06 01:47:59.629 [main] StepDef - User clicked on stay Signed
+[INFO ] 2023-07-06 01:48:09.164 [main] StepDef - User clicked on Homepage link
+[INFO ] 2023-07-06 01:48:10.144 [main] StepDef - User is highligheted on Organization link
+[INFO ] 2023-07-06 01:48:13.830 [main] StepDef - User clicked on the Organization menu menu
+[INFO ] 2023-07-06 01:48:16.965 [main] StepDef - User is waited to get element of clinical operation on mouse over
+[INFO ] 2023-07-06 01:48:19.465 [main] StepDef - User is clicked on the clinical operations link on Men menu
+[INFO ] 2023-07-06 01:48:23.339 [main] StepDef - User is waited to get an element of homepage Clinical operaion link
+[INFO ] 2023-07-06 01:48:23.936 [main] StepDef - User is clicked on the homepage Clinical operaion link
+[INFO ] 2023-07-06 01:48:25.925 [main] StepDef - User is in Clinical Operation Page
+[INFO ] 2023-07-06 01:48:26.564 [main] StepDef - User is at Vendor or Study List section
+[INFO ] 2023-07-06 01:48:30.054 [main] StepDef - User provided Valid keyword to search is :covid-19
+[INFO ] 2023-07-06 01:48:30.055 [main] StepDef - Respective Vendors is displaying as we searched using valid keyword
+[FATAL] 2023-07-06 01:48:34.346 [main] StepDef - Setup1 executed...
+[INFO ] 2023-07-06 01:48:34.395 [main] StepDef - Browser is launched
+[INFO ] 2023-07-06 01:48:39.248 [main] StepDef - Url is opened
+[INFO ] 2023-07-06 01:48:39.659 [main] StepDef - Email address is entered
+[INFO ] 2023-07-06 01:48:40.156 [main] StepDef - Password is entered
+[INFO ] 2023-07-06 01:48:43.373 [main] StepDef - User clicked on login button
+[INFO ] 2023-07-06 01:48:46.622 [main] StepDef - User clicked on stay Signed
+[INFO ] 2023-07-06 01:49:04.764 [main] StepDef - User clicked on Homepage link
+[INFO ] 2023-07-06 01:49:08.268 [main] StepDef - User is highligheted on Organization link
+[INFO ] 2023-07-06 01:49:08.679 [main] StepDef - User clicked on the Organization menu menu
+[INFO ] 2023-07-06 01:49:12.318 [main] StepDef - User is waited to get element of clinical operation on mouse over
+[INFO ] 2023-07-06 01:49:15.189 [main] StepDef - User is clicked on the clinical operations link on Men menu
+[INFO ] 2023-07-06 01:49:20.563 [main] StepDef - User is waited to get an element of homepage Clinical operaion link
+[INFO ] 2023-07-06 01:49:20.757 [main] StepDef - User is clicked on the homepage Clinical operaion link
+[INFO ] 2023-07-06 01:49:24.088 [main] StepDef - User is in Clinical Operation Page
+[INFO ] 2023-07-06 01:49:24.513 [main] StepDef - User is at Vendor or Study List section
+[INFO ] 2023-07-06 01:49:28.925 [main] StepDef - User provided Valid keyword to search is :testing
+[INFO ] 2023-07-06 01:49:31.626 [main] StepDef - No data found!: Messgae is displaying
+[FATAL] 2023-07-06 01:49:36.814 [main] StepDef - Setup1 executed...
+[INFO ] 2023-07-06 01:49:36.935 [main] StepDef - Browser is launched
+[INFO ] 2023-07-06 01:49:44.268 [main] StepDef - Url is opened
+[INFO ] 2023-07-06 01:49:44.676 [main] StepDef - Email address is entered
+[INFO ] 2023-07-06 01:49:45.141 [main] StepDef - Password is entered
+[INFO ] 2023-07-06 01:49:49.016 [main] StepDef - User clicked on login button
+[INFO ] 2023-07-06 01:50:02.510 [main] StepDef - User clicked on stay Signed
+[FATAL] 2023-07-06 01:50:15.957 [main] StepDef - Setup1 executed...
+[INFO ] 2023-07-06 01:50:15.963 [main] StepDef - Browser is launched
+[FATAL] 2023-07-06 01:53:17.691 [TestNG-test=Cucumber Tests-1] StepDef - Setup1 executed...
+[INFO ] 2023-07-06 01:53:18.622 [TestNG-test=Cucumber Tests-1] StepDef - Browser is launched
+[INFO ] 2023-07-06 01:53:24.187 [TestNG-test=Cucumber Tests-1] StepDef - Url is opened
+[INFO ] 2023-07-06 01:53:25.681 [TestNG-test=Cucumber Tests-1] StepDef - Email address is entered
+[INFO ] 2023-07-06 01:53:26.338 [TestNG-test=Cucumber Tests-1] StepDef - Password is entered
+[INFO ] 2023-07-06 01:53:29.418 [TestNG-test=Cucumber Tests-1] StepDef - User clicked on login button
+[INFO ] 2023-07-06 01:53:46.465 [TestNG-test=Cucumber Tests-1] StepDef - User clicked on stay Signed
+[INFO ] 2023-07-06 01:54:01.847 [TestNG-test=Cucumber Tests-1] StepDef - User clicked on Homepage link
+[INFO ] 2023-07-06 01:54:03.016 [TestNG-test=Cucumber Tests-1] StepDef - User is highligheted on Organization link
+[INFO ] 2023-07-06 01:54:10.868 [TestNG-test=Cucumber Tests-1] StepDef - User clicked on the Organization menu menu
+[INFO ] 2023-07-06 01:54:14.065 [TestNG-test=Cucumber Tests-1] StepDef - User is waited to get element of clinical operation on mouse over
+[INFO ] 2023-07-06 01:54:19.113 [TestNG-test=Cucumber Tests-1] StepDef - User is clicked on the clinical operations link on Men menu
+[INFO ] 2023-07-06 01:54:26.953 [TestNG-test=Cucumber Tests-1] StepDef - User is waited to get an element of homepage Clinical operaion link
+[INFO ] 2023-07-06 01:54:27.972 [TestNG-test=Cucumber Tests-1] StepDef - User is clicked on the homepage Clinical operaion link
+[INFO ] 2023-07-06 01:54:30.453 [TestNG-test=Cucumber Tests-1] StepDef - User is in Clinical Operation Page
+[FATAL] 2023-07-06 01:54:45.616 [TestNG-test=Cucumber Tests-1] StepDef - Setup1 executed...
+[INFO ] 2023-07-06 01:54:45.715 [TestNG-test=Cucumber Tests-1] StepDef - Browser is launched
+[INFO ] 2023-07-06 01:54:54.898 [TestNG-test=Cucumber Tests-1] StepDef - Url is opened
+[INFO ] 2023-07-06 01:54:55.306 [TestNG-test=Cucumber Tests-1] StepDef - Email address is entered
+[INFO ] 2023-07-06 01:54:55.791 [TestNG-test=Cucumber Tests-1] StepDef - Password is entered
+[INFO ] 2023-07-06 01:54:58.377 [TestNG-test=Cucumber Tests-1] StepDef - User clicked on login button
+[INFO ] 2023-07-06 01:55:11.742 [TestNG-test=Cucumber Tests-1] StepDef - User clicked on stay Signed
+[INFO ] 2023-07-06 01:55:20.766 [TestNG-test=Cucumber Tests-1] StepDef - User clicked on Homepage link
+[INFO ] 2023-07-06 01:55:21.027 [TestNG-test=Cucumber Tests-1] StepDef - User is highligheted on Organization link
+[INFO ] 2023-07-06 01:55:23.479 [TestNG-test=Cucumber Tests-1] StepDef - User clicked on the Organization menu menu
+[INFO ] 2023-07-06 01:55:45.397 [TestNG-test=Cucumber Tests-1] StepDef - User is waited to get element of clinical operation on mouse over
+[INFO ] 2023-07-06 01:55:47.903 [TestNG-test=Cucumber Tests-1] StepDef - User is clicked on the clinical operations link on Men menu
+[INFO ] 2023-07-06 01:55:52.536 [TestNG-test=Cucumber Tests-1] StepDef - User is waited to get an element of homepage Clinical operaion link
+[INFO ] 2023-07-06 01:55:54.667 [TestNG-test=Cucumber Tests-1] StepDef - User is clicked on the homepage Clinical operaion link
+[INFO ] 2023-07-06 01:56:08.555 [TestNG-test=Cucumber Tests-1] StepDef - User is in Clinical Operation Page
+[FATAL] 2023-07-06 02:07:33.919 [TestNG-test=Cucumber Tests-1] StepDef - Setup1 executed...
+[INFO ] 2023-07-06 02:07:34.166 [TestNG-test=Cucumber Tests-1] StepDef - Browser is launched
+[INFO ] 2023-07-06 02:07:40.028 [TestNG-test=Cucumber Tests-1] StepDef - Url is opened
+[INFO ] 2023-07-06 02:07:40.645 [TestNG-test=Cucumber Tests-1] StepDef - Email address is entered
+[INFO ] 2023-07-06 02:07:41.217 [TestNG-test=Cucumber Tests-1] StepDef - Password is entered
+[INFO ] 2023-07-06 02:07:43.905 [TestNG-test=Cucumber Tests-1] StepDef - User clicked on login button
+[INFO ] 2023-07-06 02:07:57.562 [TestNG-test=Cucumber Tests-1] StepDef - User clicked on stay Signed
+[INFO ] 2023-07-06 02:08:03.327 [TestNG-test=Cucumber Tests-1] StepDef - User clicked on Homepage link
+[INFO ] 2023-07-06 02:08:03.463 [TestNG-test=Cucumber Tests-1] StepDef - User is highligheted on Organization link
+[INFO ] 2023-07-06 02:08:06.479 [TestNG-test=Cucumber Tests-1] StepDef - User clicked on the Organization menu menu
+[INFO ] 2023-07-06 02:08:24.137 [TestNG-test=Cucumber Tests-1] StepDef - User is waited to get element of clinical operation on mouse over
+[INFO ] 2023-07-06 02:08:35.742 [TestNG-test=Cucumber Tests-1] StepDef - User is clicked on the clinical operations link on Men menu
+[INFO ] 2023-07-06 02:08:46.207 [TestNG-test=Cucumber Tests-1] StepDef - User is waited to get an element of homepage Clinical operaion link
+[INFO ] 2023-07-06 02:08:47.874 [TestNG-test=Cucumber Tests-1] StepDef - User is clicked on the homepage Clinical operaion link
+[INFO ] 2023-07-06 02:08:53.524 [TestNG-test=Cucumber Tests-1] StepDef - User is in Clinical Operation Page
+[FATAL] 2023-07-06 02:09:12.419 [TestNG-test=Cucumber Tests-1] StepDef - Setup1 executed...
+[INFO ] 2023-07-06 02:09:12.448 [TestNG-test=Cucumber Tests-1] StepDef - Browser is launched
+[INFO ] 2023-07-06 02:09:18.462 [TestNG-test=Cucumber Tests-1] StepDef - Url is opened
+[INFO ] 2023-07-06 02:09:18.925 [TestNG-test=Cucumber Tests-1] StepDef - Email address is entered
+[INFO ] 2023-07-06 02:09:19.414 [TestNG-test=Cucumber Tests-1] StepDef - Password is entered
+[INFO ] 2023-07-06 02:09:21.332 [TestNG-test=Cucumber Tests-1] StepDef - User clicked on login button
+[INFO ] 2023-07-06 02:09:24.560 [TestNG-test=Cucumber Tests-1] StepDef - User clicked on stay Signed
+[INFO ] 2023-07-06 02:09:40.971 [TestNG-test=Cucumber Tests-1] StepDef - User clicked on Homepage link
+[INFO ] 2023-07-06 02:09:41.088 [TestNG-test=Cucumber Tests-1] StepDef - User is highligheted on Organization link
+[INFO ] 2023-07-06 02:09:41.547 [TestNG-test=Cucumber Tests-1] StepDef - User clicked on the Organization menu menu
+[INFO ] 2023-07-06 02:09:44.709 [TestNG-test=Cucumber Tests-1] StepDef - User is waited to get element of clinical operation on mouse over
+[INFO ] 2023-07-06 02:09:47.090 [TestNG-test=Cucumber Tests-1] StepDef - User is clicked on the clinical operations link on Men menu
+[INFO ] 2023-07-06 02:09:53.910 [TestNG-test=Cucumber Tests-1] StepDef - User is waited to get an element of homepage Clinical operaion link
+[INFO ] 2023-07-06 02:09:54.145 [TestNG-test=Cucumber Tests-1] StepDef - User is clicked on the homepage Clinical operaion link
+[INFO ] 2023-07-06 02:09:57.169 [TestNG-test=Cucumber Tests-1] StepDef - User is in Clinical Operation Page
+[FATAL] 2023-07-06 02:15:39.193 [TestNG-test=Cucumber Tests-1] StepDef - Setup1 executed...
+[INFO ] 2023-07-06 02:15:39.760 [TestNG-test=Cucumber Tests-1] StepDef - Browser is launched
+[INFO ] 2023-07-06 02:15:47.288 [TestNG-test=Cucumber Tests-1] StepDef - Url is opened
+[INFO ] 2023-07-06 02:15:47.895 [TestNG-test=Cucumber Tests-1] StepDef - Email address is entered
+[INFO ] 2023-07-06 02:15:48.384 [TestNG-test=Cucumber Tests-1] StepDef - Password is entered
+[INFO ] 2023-07-06 02:15:50.965 [TestNG-test=Cucumber Tests-1] StepDef - User clicked on login button
+[INFO ] 2023-07-06 02:16:08.828 [TestNG-test=Cucumber Tests-1] StepDef - User clicked on stay Signed
+[INFO ] 2023-07-06 02:16:18.727 [TestNG-test=Cucumber Tests-1] StepDef - User clicked on Homepage link
+[INFO ] 2023-07-06 02:16:21.755 [TestNG-test=Cucumber Tests-1] StepDef - User is highligheted on Organization link
+[INFO ] 2023-07-06 02:16:22.204 [TestNG-test=Cucumber Tests-1] StepDef - User clicked on the Organization menu menu
+[INFO ] 2023-07-06 02:16:27.209 [TestNG-test=Cucumber Tests-1] StepDef - User is waited to get element of clinical operation on mouse over
+[INFO ] 2023-07-06 02:16:34.185 [TestNG-test=Cucumber Tests-1] StepDef - User is clicked on the clinical operations link on Men menu
+[INFO ] 2023-07-06 02:16:43.233 [TestNG-test=Cucumber Tests-1] StepDef - User is waited to get an element of homepage Clinical operaion link
+[INFO ] 2023-07-06 02:16:44.144 [TestNG-test=Cucumber Tests-1] StepDef - User is clicked on the homepage Clinical operaion link
+[INFO ] 2023-07-06 02:16:48.512 [TestNG-test=Cucumber Tests-1] StepDef - User is in Clinical Operation Page
+[INFO ] 2023-07-06 02:16:53.197 [TestNG-test=Cucumber Tests-1] StepDef - See All link is displaying
+[FATAL] 2023-07-06 02:17:01.585 [TestNG-test=Cucumber Tests-1] StepDef - Setup1 executed...
+[INFO ] 2023-07-06 02:17:01.667 [TestNG-test=Cucumber Tests-1] StepDef - Browser is launched
+[INFO ] 2023-07-06 02:17:10.238 [TestNG-test=Cucumber Tests-1] StepDef - Url is opened
+[INFO ] 2023-07-06 02:17:10.844 [TestNG-test=Cucumber Tests-1] StepDef - Email address is entered
+[INFO ] 2023-07-06 02:17:11.635 [TestNG-test=Cucumber Tests-1] StepDef - Password is entered
+[INFO ] 2023-07-06 02:17:13.388 [TestNG-test=Cucumber Tests-1] StepDef - User clicked on login button
+[INFO ] 2023-07-06 02:17:34.614 [TestNG-test=Cucumber Tests-1] StepDef - User clicked on stay Signed
+[INFO ] 2023-07-06 02:17:55.186 [TestNG-test=Cucumber Tests-1] StepDef - User clicked on Homepage link
+[INFO ] 2023-07-06 02:17:55.366 [TestNG-test=Cucumber Tests-1] StepDef - User is highligheted on Organization link
+[INFO ] 2023-07-06 02:17:55.940 [TestNG-test=Cucumber Tests-1] StepDef - User clicked on the Organization menu menu
+[INFO ] 2023-07-06 02:18:07.182 [TestNG-test=Cucumber Tests-1] StepDef - User is waited to get element of clinical operation on mouse over
+[INFO ] 2023-07-06 02:18:09.924 [TestNG-test=Cucumber Tests-1] StepDef - User is clicked on the clinical operations link on Men menu
+[INFO ] 2023-07-06 02:18:16.248 [TestNG-test=Cucumber Tests-1] StepDef - User is waited to get an element of homepage Clinical operaion link
+[INFO ] 2023-07-06 02:18:16.790 [TestNG-test=Cucumber Tests-1] StepDef - User is clicked on the homepage Clinical operaion link
+[INFO ] 2023-07-06 02:18:20.453 [TestNG-test=Cucumber Tests-1] StepDef - User is in Clinical Operation Page
